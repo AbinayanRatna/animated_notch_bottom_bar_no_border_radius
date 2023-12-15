@@ -10,13 +10,13 @@ const double kCircleRadius = 30.0;
 /// margin between notch and circle
 const double kCircleMargin = 8.0;
 
-const double kTopRadius = 10.0;
+const double kTopRadius = 0.0;
 
 /// top margin
 const double kTopMargin = 10.0;
 
 /// notch radius
-const double kBottomRadius = 28.0;
+const double kBottomRadius = 0.0;
 
 /// bottom bar item size
 const double kIconSize = 24.0;
